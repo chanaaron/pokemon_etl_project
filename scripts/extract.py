@@ -2,8 +2,7 @@ import requests
 import json
 from datetime import datetime
 import re
-
-timestamp = datetime.now().isoformat()
+import os
 
 def get_pokemon_groups():
   # url for all pokemon groups
@@ -14,6 +13,7 @@ def get_pokemon_groups():
     print(f"Failed to fetch. Status code: {response.status_code}")
     return
   
+  timestamp = datetime.now().isoformat()
   data = response.json()
   groups = [{"name": set["name"], "groupId": set["groupId"],
             "timestamp": timestamp} for set in data["results"]]
@@ -29,9 +29,20 @@ def get_pokemon_products(groupId, name):
   if response.status_code == 200:
     data = response.json()
     results = data["results"]
+
+    if not results:
+      print(f"Skipping products for {name} - {groupId}. No results.")
+      return
+
+    timestamp = datetime.now().isoformat()
     products = [{"productId": item["productId"], "name": item["name"], "imageUrl": item["imageUrl"], "timestamp": timestamp}
               for item in results]
-    with open(f"../data/raw/{name}_{groupId}_products.json", "w", encoding="utf-8") as f:
+    
+    safe_name = re.sub(r'[^\w\-_. ]', '', name).replace(" ", "_")
+    file_name = f"../data/raw/{safe_name}_{groupId}_products.json"
+    os.makedirs(os.path.dirname(file_name), exist_ok=True)
+
+    with open(file_name, "w", encoding="utf-8") as f:
       json.dump(products, f, ensure_ascii=False, indent=2)
 
 def get_pokemon_prices(groupId, name):
@@ -41,21 +52,27 @@ def get_pokemon_prices(groupId, name):
   if response.status_code == 200:
     data = response.json()
     results = data["results"]
+
+    if not results:
+      print(f"Skipping prices {name} - {groupId}. No results")
+      return
+    
+    timestamp = datetime.now().isoformat()
     products = [{"productId": item["productId"], "marketPrice": item["marketPrice"], "timestamp": timestamp}
                 for item in results]
-    with open(f"../data/raw/{name}_{groupId}_prices.json", "w", encoding="utf-8") as f:
+    
+    safe_name = re.sub(r'[^\w\-_. ]', '', name).replace(" ", "_")
+    file_name = f"../data/raw/{safe_name}_{groupId}_prices.json"
+    os.makedirs(os.path.dirname(file_name), exist_ok=True)
+    
+    with open(file_name, "w", encoding="utf-8") as f:
       json.dump(products, f, ensure_ascii=False, indent=2)
 
-
-with open("groups.json", "r", encoding="utf-8") as f:
-    groups = json.load(f)
-
 if __name__ == "__main__":
-  # get_pokemon_groups()
+  get_pokemon_groups()
+  with open("groups.json", "r", encoding="utf-8") as f:
+    groups = json.load(f)
   for group in groups:
-      print(group)
-      group_id = group["groupId"]
-      name = re.sub(r'[^\w\-_. ]', '', group["name"]).replace(" ", "_")
-      get_pokemon_products(group_id, name)
-      get_pokemon_prices(group_id, name)
+      get_pokemon_products(group["groupId"], group["name"])
+      get_pokemon_prices(group["groupId"], group["name"])
 
