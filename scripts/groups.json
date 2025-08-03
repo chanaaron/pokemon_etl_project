@@ -1,826 +1,1032 @@
 [
   {
     "name": "Base Set",
-    "groupId": 604
+    "groupId": 604,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Base Set 2",
-    "groupId": 605
+    "groupId": 605,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "DP Training Kit 1 Blue",
-    "groupId": 609
+    "groupId": 609,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "DP Training Kit 1 Gold",
-    "groupId": 610
+    "groupId": 610,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Fossil",
-    "groupId": 630
+    "groupId": 630,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Jungle",
-    "groupId": 635
+    "groupId": 635,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Southern Islands",
-    "groupId": 648
+    "groupId": 648,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Rising Rivals",
-    "groupId": 1367
+    "groupId": 1367,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Mysterious Treasures",
-    "groupId": 1368
+    "groupId": 1368,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Stormfront",
-    "groupId": 1369
+    "groupId": 1369,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Plasma Blast",
-    "groupId": 1370
+    "groupId": 1370,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Skyridge",
-    "groupId": 1372
+    "groupId": 1372,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Team Rocket",
-    "groupId": 1373
+    "groupId": 1373,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Legendary Collection",
-    "groupId": 1374
+    "groupId": 1374,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Expedition",
-    "groupId": 1375
+    "groupId": 1375,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Dragon",
-    "groupId": 1376
+    "groupId": 1376,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Team Magma vs Team Aqua",
-    "groupId": 1377
+    "groupId": 1377,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Legend Maker",
-    "groupId": 1378
+    "groupId": 1378,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Holon Phantoms",
-    "groupId": 1379
+    "groupId": 1379,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Secret Wonders",
-    "groupId": 1380
+    "groupId": 1380,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Triumphant",
-    "groupId": 1381
+    "groupId": 1381,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Plasma Freeze",
-    "groupId": 1382
+    "groupId": 1382,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Power Keepers",
-    "groupId": 1383
+    "groupId": 1383,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Supreme Victors",
-    "groupId": 1384
+    "groupId": 1384,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Noble Victories",
-    "groupId": 1385
+    "groupId": 1385,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Dark Explorers",
-    "groupId": 1386
+    "groupId": 1386,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY Base Set",
-    "groupId": 1387
+    "groupId": 1387,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Neo Revelation",
-    "groupId": 1389
+    "groupId": 1389,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Majestic Dawn",
-    "groupId": 1390
+    "groupId": 1390,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Arceus",
-    "groupId": 1391
+    "groupId": 1391,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Sandstorm",
-    "groupId": 1392
+    "groupId": 1392,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Ruby and Sapphire",
-    "groupId": 1393
+    "groupId": 1393,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Dragons Exalted",
-    "groupId": 1394
+    "groupId": 1394,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Crystal Guardians",
-    "groupId": 1395
+    "groupId": 1395,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Neo Genesis",
-    "groupId": 1396
+    "groupId": 1396,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Aquapolis",
-    "groupId": 1397
+    "groupId": 1397,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Unseen Forces",
-    "groupId": 1398
+    "groupId": 1398,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Unleashed",
-    "groupId": 1399
+    "groupId": 1399,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Black and White",
-    "groupId": 1400
+    "groupId": 1400,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2011",
-    "groupId": 1401
+    "groupId": 1401,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "HeartGold SoulSilver",
-    "groupId": 1402
+    "groupId": 1402,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Undaunted",
-    "groupId": 1403
+    "groupId": 1403,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Deoxys",
-    "groupId": 1404
+    "groupId": 1404,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Great Encounters",
-    "groupId": 1405
+    "groupId": 1405,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Platinum",
-    "groupId": 1406
+    "groupId": 1406,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Black and White Promos",
-    "groupId": 1407
+    "groupId": 1407,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Boundaries Crossed",
-    "groupId": 1408
+    "groupId": 1408,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Legendary Treasures",
-    "groupId": 1409
+    "groupId": 1409,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Emerald",
-    "groupId": 1410
+    "groupId": 1410,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Dragon Frontiers",
-    "groupId": 1411
+    "groupId": 1411,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Next Destinies",
-    "groupId": 1412
+    "groupId": 1412,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Plasma Storm",
-    "groupId": 1413
+    "groupId": 1413,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 7",
-    "groupId": 1414
+    "groupId": 1414,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Call of Legends",
-    "groupId": 1415
+    "groupId": 1415,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Hidden Legends",
-    "groupId": 1416
+    "groupId": 1416,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Legends Awakened",
-    "groupId": 1417
+    "groupId": 1417,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "WoTC Promo",
-    "groupId": 1418
+    "groupId": 1418,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "FireRed & LeafGreen",
-    "groupId": 1419
+    "groupId": 1419,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Diamond and Pearl Promos",
-    "groupId": 1421
+    "groupId": 1421,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 1",
-    "groupId": 1422
+    "groupId": 1422,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Nintendo Promos",
-    "groupId": 1423
+    "groupId": 1423,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Emerging Powers",
-    "groupId": 1424
+    "groupId": 1424,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Dragon Vault",
-    "groupId": 1426
+    "groupId": 1426,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2012",
-    "groupId": 1427
+    "groupId": 1427,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Team Rocket Returns",
-    "groupId": 1428
+    "groupId": 1428,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Delta Species",
-    "groupId": 1429
+    "groupId": 1429,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Diamond and Pearl",
-    "groupId": 1430
+    "groupId": 1430,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 6",
-    "groupId": 1432
+    "groupId": 1432,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Rumble",
-    "groupId": 1433
+    "groupId": 1433,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Neo Discovery",
-    "groupId": 1434
+    "groupId": 1434,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 5",
-    "groupId": 1439
+    "groupId": 1439,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Gym Challenge",
-    "groupId": 1440
+    "groupId": 1440,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Gym Heroes",
-    "groupId": 1441
+    "groupId": 1441,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 3",
-    "groupId": 1442
+    "groupId": 1442,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Neo Destiny",
-    "groupId": 1444
+    "groupId": 1444,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 9",
-    "groupId": 1446
+    "groupId": 1446,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 2",
-    "groupId": 1447
+    "groupId": 1447,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 8",
-    "groupId": 1450
+    "groupId": 1450,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY Promos",
-    "groupId": 1451
+    "groupId": 1451,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "POP Series 4",
-    "groupId": 1452
+    "groupId": 1452,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "HGSS Promos",
-    "groupId": 1453
+    "groupId": 1453,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Best of Promos",
-    "groupId": 1455
+    "groupId": 1455,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Flashfire",
-    "groupId": 1464
+    "groupId": 1464,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Legendary Treasures: Radiant Collection",
-    "groupId": 1465
+    "groupId": 1465,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Furious Fists",
-    "groupId": 1481
+    "groupId": 1481,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Phantom Forces",
-    "groupId": 1494
+    "groupId": 1494,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Primal Clash",
-    "groupId": 1509
+    "groupId": 1509,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Kalos Starter Set",
-    "groupId": 1522
+    "groupId": 1522,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Double Crisis",
-    "groupId": 1525
+    "groupId": 1525,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Jumbo Cards",
-    "groupId": 1528
+    "groupId": 1528,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY Trainer Kit: Sylveon & Noivern",
-    "groupId": 1532
+    "groupId": 1532,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY Trainer Kit: Bisharp & Wigglytuff",
-    "groupId": 1533
+    "groupId": 1533,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Roaring Skies",
-    "groupId": 1534
+    "groupId": 1534,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY Trainer Kit: Latias & Latios",
-    "groupId": 1536
+    "groupId": 1536,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "BW Trainer Kit: Excadrill & Zoroark",
-    "groupId": 1538
+    "groupId": 1538,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "League & Championship Cards",
-    "groupId": 1539
+    "groupId": 1539,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "HGSS Trainer Kit: Gyarados & Raichu",
-    "groupId": 1540
+    "groupId": 1540,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "DP Trainer Kit: Manaphy & Lucario",
-    "groupId": 1541
+    "groupId": 1541,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "EX Trainer Kit 2: Plusle & Minun",
-    "groupId": 1542
+    "groupId": 1542,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "EX Trainer Kit 1: Latias & Latios",
-    "groupId": 1543
+    "groupId": 1543,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Ancient Origins",
-    "groupId": 1576
+    "groupId": 1576,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - BREAKthrough",
-    "groupId": 1661
+    "groupId": 1661,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Base Set (Shadowless)",
-    "groupId": 1663
+    "groupId": 1663,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2014",
-    "groupId": 1692
+    "groupId": 1692,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2015",
-    "groupId": 1694
+    "groupId": 1694,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - BREAKpoint",
-    "groupId": 1701
+    "groupId": 1701,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Generations",
-    "groupId": 1728
+    "groupId": 1728,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Generations: Radiant Collection",
-    "groupId": 1729
+    "groupId": 1729,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Fates Collide",
-    "groupId": 1780
+    "groupId": 1780,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY Trainer Kit: Pikachu Libre & Suicune",
-    "groupId": 1796
+    "groupId": 1796,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Steam Siege",
-    "groupId": 1815
+    "groupId": 1815,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Deck Exclusives",
-    "groupId": 1840
+    "groupId": 1840,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "XY - Evolutions",
-    "groupId": 1842
+    "groupId": 1842,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "EX Battle Stadium",
-    "groupId": 1853
+    "groupId": 1853,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM Promos",
-    "groupId": 1861
+    "groupId": 1861,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM Base Set",
-    "groupId": 1863
+    "groupId": 1863,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Guardians Rising",
-    "groupId": 1919
+    "groupId": 1919,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Alternate Art Promos",
-    "groupId": 1938
+    "groupId": 1938,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Burning Shadows",
-    "groupId": 1957
+    "groupId": 1957,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Shining Legends",
-    "groupId": 2054
+    "groupId": 2054,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM Trainer Kit: Lycanroc & Alolan Raichu",
-    "groupId": 2069
+    "groupId": 2069,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Crimson Invasion",
-    "groupId": 2071
+    "groupId": 2071,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2017",
-    "groupId": 2148
+    "groupId": 2148,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Countdown Calendar Promos",
-    "groupId": 2155
+    "groupId": 2155,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Burger King Promos",
-    "groupId": 2175
+    "groupId": 2175,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Ultra Prism",
-    "groupId": 2178
+    "groupId": 2178,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Pikachu World Collection Promos",
-    "groupId": 2205
+    "groupId": 2205,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM Trainer Kit: Alolan Sandslash & Alolan Ninetales",
-    "groupId": 2208
+    "groupId": 2208,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Forbidden Light",
-    "groupId": 2209
+    "groupId": 2209,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Kids WB Promos",
-    "groupId": 2214
+    "groupId": 2214,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Celestial Storm",
-    "groupId": 2278
+    "groupId": 2278,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "World Championship Decks",
-    "groupId": 2282
+    "groupId": 2282,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Blister Exclusives",
-    "groupId": 2289
+    "groupId": 2289,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Dragon Majesty",
-    "groupId": 2295
+    "groupId": 2295,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Lost Thunder",
-    "groupId": 2328
+    "groupId": 2328,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Professor Program Promos",
-    "groupId": 2332
+    "groupId": 2332,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2018",
-    "groupId": 2364
+    "groupId": 2364,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Miscellaneous Cards & Products",
-    "groupId": 2374
+    "groupId": 2374,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Team Up",
-    "groupId": 2377
+    "groupId": 2377,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Detective Pikachu",
-    "groupId": 2409
+    "groupId": 2409,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Unbroken Bonds",
-    "groupId": 2420
+    "groupId": 2420,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Unified Minds",
-    "groupId": 2464
+    "groupId": 2464,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Hidden Fates",
-    "groupId": 2480
+    "groupId": 2480,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SM - Cosmic Eclipse",
-    "groupId": 2534
+    "groupId": 2534,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH: Sword & Shield Promo Cards",
-    "groupId": 2545
+    "groupId": 2545,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2019",
-    "groupId": 2555
+    "groupId": 2555,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH01: Sword & Shield Base Set",
-    "groupId": 2585
+    "groupId": 2585,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Hidden Fates: Shiny Vault",
-    "groupId": 2594
+    "groupId": 2594,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH02: Rebel Clash",
-    "groupId": 2626
+    "groupId": 2626,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH03: Darkness Ablaze",
-    "groupId": 2675
+    "groupId": 2675,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Champion's Path",
-    "groupId": 2685
+    "groupId": 2685,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Battle Academy",
-    "groupId": 2686
+    "groupId": 2686,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH04: Vivid Voltage",
-    "groupId": 2701
+    "groupId": 2701,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Shining Fates",
-    "groupId": 2754
+    "groupId": 2754,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH05: Battle Styles",
-    "groupId": 2765
+    "groupId": 2765,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "First Partner Pack",
-    "groupId": 2776
+    "groupId": 2776,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Shining Fates: Shiny Vault",
-    "groupId": 2781
+    "groupId": 2781,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's 25th Anniversary Promos",
-    "groupId": 2782
+    "groupId": 2782,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH06: Chilling Reign",
-    "groupId": 2807
+    "groupId": 2807,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH07: Evolving Skies",
-    "groupId": 2848
+    "groupId": 2848,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Celebrations",
-    "groupId": 2867
+    "groupId": 2867,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH08: Fusion Strike",
-    "groupId": 2906
+    "groupId": 2906,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Celebrations: Classic Collection",
-    "groupId": 2931
+    "groupId": 2931,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH09: Brilliant Stars",
-    "groupId": 2948
+    "groupId": 2948,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH09: Brilliant Stars Trainer Gallery",
-    "groupId": 3020
+    "groupId": 3020,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH10: Astral Radiance",
-    "groupId": 3040
+    "groupId": 3040,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Battle Academy 2022",
-    "groupId": 3051
+    "groupId": 3051,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Pokemon GO",
-    "groupId": 3064
+    "groupId": 3064,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH10: Astral Radiance Trainer Gallery",
-    "groupId": 3068
+    "groupId": 3068,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2016",
-    "groupId": 3087
+    "groupId": 3087,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH11: Lost Origin",
-    "groupId": 3118
+    "groupId": 3118,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2022",
-    "groupId": 3150
+    "groupId": 3150,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH12: Silver Tempest",
-    "groupId": 3170
+    "groupId": 3170,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH11: Lost Origin Trainer Gallery",
-    "groupId": 3172
+    "groupId": 3172,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Trick or Trade BOOster Bundle",
-    "groupId": 3179
+    "groupId": 3179,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SWSH12: Silver Tempest Trainer Gallery",
-    "groupId": 17674
+    "groupId": 17674,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Crown Zenith",
-    "groupId": 17688
+    "groupId": 17688,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Crown Zenith: Galarian Gallery",
-    "groupId": 17689
+    "groupId": 17689,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV: Scarlet & Violet Promo Cards",
-    "groupId": 22872
+    "groupId": 22872,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV01: Scarlet & Violet Base Set",
-    "groupId": 22873
+    "groupId": 22873,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Prize Pack Series Cards",
-    "groupId": 22880
+    "groupId": 22880,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Ash vs Team Rocket Deck Kit (JP Exclusive)",
-    "groupId": 23095
+    "groupId": 23095,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV02: Paldea Evolved",
-    "groupId": 23120
+    "groupId": 23120,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV03: Obsidian Flames",
-    "groupId": 23228
+    "groupId": 23228,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV: Scarlet & Violet 151",
-    "groupId": 23237
+    "groupId": 23237,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Trick or Trade BOOster Bundle 2023",
-    "groupId": 23266
+    "groupId": 23266,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV04: Paradox Rift",
-    "groupId": 23286
+    "groupId": 23286,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2023",
-    "groupId": 23306
+    "groupId": 23306,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Trading Card Game Classic",
-    "groupId": 23323
+    "groupId": 23323,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "My First Battle",
-    "groupId": 23330
+    "groupId": 23330,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV: Paldean Fates",
-    "groupId": 23353
+    "groupId": 23353,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV05: Temporal Forces",
-    "groupId": 23381
+    "groupId": 23381,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV06: Twilight Masquerade",
-    "groupId": 23473
+    "groupId": 23473,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Battle Academy 2024",
-    "groupId": 23520
+    "groupId": 23520,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV: Shrouded Fable",
-    "groupId": 23529
+    "groupId": 23529,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV07: Stellar Crown",
-    "groupId": 23537
+    "groupId": 23537,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "Trick or Trade BOOster Bundle 2024",
-    "groupId": 23561
+    "groupId": 23561,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV08: Surging Sparks",
-    "groupId": 23651
+    "groupId": 23651,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV: Prismatic Evolutions",
-    "groupId": 23821
+    "groupId": 23821,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV09: Journey Together",
-    "groupId": 24073
+    "groupId": 24073,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "McDonald's Promos 2024",
-    "groupId": 24163
+    "groupId": 24163,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV10: Destined Rivals",
-    "groupId": 24269
+    "groupId": 24269,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV: Black Bolt",
-    "groupId": 24325
+    "groupId": 24325,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SV: White Flare",
-    "groupId": 24326
+    "groupId": 24326,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "ME01: Mega Evolution",
-    "groupId": 24380
+    "groupId": 24380,
+    "timestamp": "2025-08-01T14:43:11.817569"
   },
   {
     "name": "SVE: Scarlet & Violet Energies",
-    "groupId": 24382
+    "groupId": 24382,
+    "timestamp": "2025-08-01T14:43:11.817569"
   }
 ]
