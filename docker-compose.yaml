@@ -13,6 +13,9 @@ x-airflow-common:
     - ./airflow/dags:/opt/airflow/dags
     - ./airflow/logs:/opt/airflow/logs
     - ./airflow/plugins:/opt/airflow/plugins
+    - ./scripts:/opt/airflow/scripts
+    - ./data:/opt/airflow/data
+
   depends_on:
     - postgres
 
@@ -25,10 +28,24 @@ services:
       POSTGRES_DB: airflow
     volumes:
       - postgres-db-volume:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  pgadmin:
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+
 
   airflow-webserver:
     <<: *airflow-common
     command: api-server
+    env_file:
+      - .env
     ports:
       - "8080:8080"
     healthcheck:
@@ -41,10 +58,14 @@ services:
   airflow-scheduler:
     <<: *airflow-common
     command: scheduler
+    env_file:
+      - .env
 
   airflow-init:
     <<: *airflow-common
     command: db migrate
+    env_file:
+      - .env
 
 volumes:
   postgres-db-volume:
