@@ -35,9 +35,30 @@ def get_pokemon_products(groupId, name):
       return
 
     timestamp = datetime.now().isoformat()
-    products = [{"productId": item["productId"], "name": item["name"], "imageUrl": item["imageUrl"], "timestamp": timestamp}
-              for item in results]
-    
+    products = []
+
+    for item in results:
+      product = {
+          "productId": item["productId"], 
+          "name": item["cleanName"], 
+          "imageUrl": item["imageUrl"], 
+          "timestamp": timestamp
+      }
+
+      extended_data = item.get("extendedData", [])
+      if extended_data:
+        if extended_data[0].get("displayName", "") == "Card Number":
+          product["cardNumber"] = extended_data[0]["value"]
+          if len(extended_data) > 1:
+            product["rarity"] = extended_data[1].get("value")
+          product["type"] = "Card"
+        else:
+          product["type"] = "Product"  # Not a card
+      else:
+        product["type"] = "N/A"  # No extendedData at all
+
+      products.append(product)
+
     safe_name = re.sub(r'[^\w\-_. ]', '', name).replace(" ", "_")
     file_name = f"../data/raw/{safe_name}_{groupId}_products.json"
     os.makedirs(os.path.dirname(file_name), exist_ok=True)
